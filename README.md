@@ -1,3 +1,7 @@
+# IMPORTANT
+**Please note: The AI service previously used in this script was free but now requires a paid subscription. To use this program, you will need to replace the current AI integration with an alternative provider.**
+
+
 ---
 
 # Pocket-AI
