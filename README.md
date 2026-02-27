@@ -26,8 +26,9 @@ To run the Pocket-AI, follow these simple steps:
 ![Screenshot 2025-06-10 155204](https://github.com/user-attachments/assets/b568bee4-fb62-4c4b-bafd-747b1397c151)
 
 
-# Communicate with Me
+# Socials
 If you have questions or need support, feel free to reach out to me:
-[Telegram](https://t.me/hvn_vladislav)
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - https://t.me/hvn_vladislav 
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](#) - hvnvladislav@gmail.com
